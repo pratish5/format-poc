@@ -1,6 +1,6 @@
 {
 	"allOn": "Single",
-			"Line": "example",
+	"Line": "example",
 	"noSpace": true,
 	"quote": {
 		"singleQuote": "example",
@@ -9,7 +9,7 @@
 	"phoneNumbers": [
 		{
 			"type": "home",
-			"number":		 "212 555-1234"
+			"number": "212 555-1234"
 		},
 		{
 			"type": "office",
