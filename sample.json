@@ -1,18 +1,18 @@
 {
 	"allOn": "Single",
 	"Line": "example",
-	"noSpace": true,
+	    "noSpace": true,
 	"quote": {
 		"singleQuote": "example",
 		"indented": true
 	},
 	"phoneNumbers": [
-		{
+	{
 			"type": "home",
 			"number": "212 555-1234"
 		},
 		{
-			"type": "office",
+			"type"  : "office",
 			"trailing": "commas by accident"
 		}
 	]
