@@ -1,7 +1,7 @@
 {
 	"allOn": "Single",
 	"Line": "example",
-	"noSpace": true,
+			"noSpace": true,
 	"quote": {
 		"singleQuote": "example",
 		"indented": true
@@ -13,7 +13,7 @@
 		},
 		{
 			"type": "office",
-			"trailing": "commas by accident"
+					"trailing": "commas by accident"
 		}
 	]
 }
