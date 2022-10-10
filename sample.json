@@ -1,7 +1,7 @@
 {
 	"allOn": "Single",
 	"Line": "example",
-			"noSpace": true,
+				"noSpace": true,
 	"quote": {
 		"singleQuote": "example",
 		"indented": true
@@ -12,7 +12,7 @@
 			"number": "212 555-1234"
 		},
 		{
-			"type": "office",
+				"type": "office",
 					"trailing": "commas by accident"
 		}
 	]
